@@ -1,5 +1,3 @@
-<h1 align="center">ZENITSU-MD-V3</h1>
-
 
 <p align="center">
 <a href="https://files.catbox.moe/4mbanu.jpg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ZENITSU+MD+V3+™" alt="Typing SVG" /></a>
