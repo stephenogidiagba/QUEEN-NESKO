@@ -49,7 +49,7 @@
   </a>
 </p>
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 F̶O̶L̶L̶O̶W̶ M̶Y̶ C̶H̶A̶N̶N̶E̶L̶
 
 <a href="https://whatsapp.com/channel/0029Vb0Ei5L47Xe6rmpb4f2m"><img src="https://img.shielUM ds.io/badge/Join%20Our%%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
@@ -57,20 +57,20 @@
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h1>👇 D̶E̶P̶L̶O̶Y̶ N̶O̶W̶👇</h1>
   
 </div>
 
 <br>
 
-## 🎀 STEP 01 -  Fork The Repo
+## 🎀 STEP 01 -  F̶O̶R̶K̶ T̶H̶E̶ R̶E̶P̶O̶
 
 <a href="https://github.com/ayanmdoz/QUEEN-NESKO/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK QUEEN NESKO REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## 🎀 STEP 02 -  Get Session
+## 🎀 STEP 02 -  G̶E̶T̶ S̶E̶S̶S̶I̶O̶N̶
 
 <a href="https://queen-nesko-pairweb.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
@@ -85,34 +85,34 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
 
 --------
-4.  ####  🎀 DEPLOY IN REPLIT
+4.  ####  🎀 D̶E̶P̶L̶O̶Y̶  I̶N̶ R̶E̶P̶L̶I̶T̶
 
    <a href='https://repl.it/github/ayanmdoz/QUEEN-NESKO' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
-5.  ####  🎀 DEPLOY IN KOYEB
+5.  ####  🎀 D̶E̶P̶L̶O̶Y̶ I̶N̶ K̶O̶Y̶E̶B̶
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 --------
-6.  ####  🎀 DEPLOY IN GLITCH
+6.  ####  🎀 D̶E̶P̶L̶O̶Y̶ I̶N̶ G̶L̶I̶T̶C̶H̶
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 --------
 
-7.  ####  🎀 DEPLOY TO CODESPACE
+7.  ####  🎀 D̶E̶P̶L̶O̶Y̶ T̶O̶ C̶O̶D̶E̶S̶P̶A̶C̶E̶
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 --------
 
-8. ####  🎀 DEPLOY TO RENDER
+8. ####  🎀 D̶E̶P̶L̶O̶Y̶ T̶O̶ R̶E̶P̶L̶I̶T̶
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 --------
-9. ####  🎀 DEPLOY TO RAILWAY
+9. ####  🎀 D̶E̶P̶L̶O̶Y̶ T̶O̶ R̶A̶I̶L̶W̶A̶Y̶
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
