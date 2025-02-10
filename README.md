@@ -1,79 +1,170 @@
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">ZENITSU-MD-V3</h1>
 
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=LORD-XMD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
 
-----
-<p align = center>   <img src="https://files.catbox.moe/ug2x1y.jpg"</p>
+<p align="center">
+<a href="https://files.catbox.moe/4mbanu.jpg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ZENITSU+MD+V3+™" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/ayanmdoz">
+    <img src="https://files.catbox.moe/4mbanu.jpg"  width="700px">
+</a>
+<hr>
+
+
 <p align="center">
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAYANMDOZ%2FZENITSU-MD-V3&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3/fork">
+    <img src="https://img.shields.io/github/forks/Ayanmdoz/ZENITSU-MD-V3?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3/stargazers">
+    <img src="https://img.shields.io/github/stars/Ayanmdoz/ZENITSU-MD-V3?style=social">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/github/repo-size/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=Repo%20Size&style=plastic">
 
-**How to deploy**
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/github/license/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=License&style=plastic">
 
-**1. First step**
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/github/languages/top/Ayanmdoz/ZENITSU-MD-V3?color=purple&label=Javascript&style=plastic">
 
-<p align="left">
-<a href='https://github.com/kingmalvn/LORD-XMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
-   
-**2. Second Step**
+  </a>
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Ayan%20Mdoz&color=purple&style=plastic">
 
-<p align="left">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-blue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://github.com/Ayanmdoz/ZENITSU-MD-V3">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-GHOST%20™%20(TC)-purple&style=plastic">
 
+  </a>
+</p>
 
+## 💡 FOLLOW OUR CHANAL
 
-<summary>🔹️⚕ DEPLOY BOT ON 🔸️</summary>
-	 
---------	 
-1.  #### DEPLOY IN HEROKU 
+<a href="https://whatsapp.com/channel/0029VavxVByI7BeHP65imX32"><img src="https://img.shielUM ds.io/badge/Join%20Our%%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/kingmalvn/LORD-XMD)
+<br>
+
+<div align="center">
+ 
+  <h1>👇 DEPLOY NOW 👇</h1>
+  
+</div>
+
+<br>
+
+## 🎀 STEP 01 -  Fork The Repo
+
+<a href="https://github.com/ayanmdoz/ZENITSU-MD-V3/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK ZENITSU MD V3 REPO" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+## 🎀 STEP 02 -  Get Session
+
+<a href="https://web-pair-e7uu.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+
+<a href="https://web-pair-e7uu.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+
+`Not come session id use a vpn and try again`
+
+<br>
+<br>
+3. ### 🎀 Deployment Methods
+<a
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
 
 --------
-2.  #### DEPLOY IN REPLIT
+4.  ####  🎀 DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
---------
-3.  #### DEPLOY IN KOYEB
-
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/kingmalvn/LORD-XMD&branch=main&name=lord-xmd&builder=dockerfile&env[OWNER_NUMBER]=263714757857%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=LORDX+IS+ONLINE&env[BOT_NAME]=LORD-XMD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
+   <a href='https://repl.it/github/ayanmdoz/ZENITSU-MD-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
-4.  #### DEPLOY IN GLITCH
+5.  ####  🎀 DEPLOY IN KOYEB
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------
+6.  ####  🎀 DEPLOY IN GLITCH
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 --------
 
-5.  #### DEPLOY TO CODESPACE
+7.  ####  🎀 DEPLOY TO CODESPACE
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 --------
 
-6. #### DEPLOY TO RENDER
+8. ####  🎀 DEPLOY TO RENDER
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 --------
-7. #### DEPLOY TO RAILWAY
+9. ####  🎀 DEPLOY TO RAILWAY
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-**6. Github Workflow**
+
+--------
 
 
-<p align="center">
-   
-_Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it._
+---
 
-   
-**Copy workflow deploy code below**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Workflow Deploy Code 👇
 
 
 ```
@@ -112,28 +203,3 @@ jobs:
       run: npm start
 ```
 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-`✠ HOW TO DEPLOY MALVIN MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
-
--------------
-
-<p align="center">
-   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-_____
-
-<h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>NB 🚫</strong><br>
-   
-_I’m not responsible for you messing around and getting your account banned. As long as you don’t modify the source code to fit your idiotic needs, you’re fine. But seriously, don’t go spamming others. I’m tired of repeating this._
-</p>
-    
