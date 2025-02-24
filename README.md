@@ -72,9 +72,9 @@
 
 ## 🌅💇 STEP 02 -  GET SESSION
 
-<a href="https://queen-nesko-pairweb.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://queen-nesko-pair.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
-<a href="https://queen-nesko-pairweb.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://queen-nesko-pair.onrender.com"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 `Not come session id use a vpn and try again`
 
