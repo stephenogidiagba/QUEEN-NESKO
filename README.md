@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://i.ibb.co/p6Fn0hQf/temp-image.jpg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=⫷QUEEN NESKO MD INC WHATSAPP BOT BREED BY AYAN MODZ⫸" alt="Typing SVG" /></a>
+<a href="https://i.ibb.co/p6Fn0hQf/temp-image.jpg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=⫷QUEEN NESKO MD INC ⫸" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/ayanmdoz">
